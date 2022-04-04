@@ -1,27 +1,27 @@
 # LATIHAN7DPBO2022
 
 ## Screnshoot Add Data
-![Screenshot](Screenshoot/add1.png)
-![Screenshot](Screenshoot/add2.png)
+![Screenshot](Screnshoot/add1.png)
+![Screenshot](Screnshoot/add2.png)
 
 ## Screnshoot Selesai
-![Screenshot](Screenshoot/selesai1.png)
-![Screenshot](Screenshoot/selesai2.png)
+![Screenshot](Screnshoot/selesai1.png)
+![Screenshot](Screnshoot/selesai2.png)
 
 ## Screnshoot Hapus Data
-![Screenshot](Screenshoot/hapus.png)
+![Screenshot](Screnshoot/hapus.png)
 
 ## Screnshoot Sorting berdasarkan Subject
-![Screenshot](Screenshoot/Subjek.png)
+![Screenshot](Screnshoot/Subjek.png)
 
 ## Screnshoot Sorting berdasarkan Prioritas
-![Screenshot](Screenshoot/Prioritas.png)
+![Screenshot](Screnshoot/Prioritas.png)
 
 ## Screnshoot Sorting berdasarkan Deadline
-![Screenshot](Screenshoot/deadline.png)
+![Screenshot](Screnshoot/deadline.png)
 
 ## Screnshoot Sorting berdasarkan Status
-![Screenshot](Screenshoot/status.png)
+![Screenshot](Screnshoot/status.png)
 
 ## Screnshoot Reset
-![Screenshot](Screenshoot/reset.png)
+![Screenshot](Screnshoot/reset.png)
